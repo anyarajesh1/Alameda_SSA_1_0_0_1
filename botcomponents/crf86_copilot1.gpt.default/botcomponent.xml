@@ -1,0 +1,11 @@
+<botcomponent schemaname="crf86_copilot1.gpt.default">
+  <componenttype>15</componenttype>
+  <description>A bot for Alameda County's Social Services Agency's website.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Alameda SSA</name>
+  <parentbotid>
+    <schemaname>crf86_copilot1</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

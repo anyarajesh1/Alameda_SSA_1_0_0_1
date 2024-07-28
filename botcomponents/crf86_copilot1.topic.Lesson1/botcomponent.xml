@@ -1,0 +1,10 @@
+<botcomponent schemaname="crf86_copilot1.topic.Lesson1">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Lesson 1 - A simple topic</name>
+  <parentbotid>
+    <schemaname>crf86_copilot1</schemaname>
+  </parentbotid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</botcomponent>

@@ -1,0 +1,11 @@
+<botcomponent schemaname="crf86_copilot1.knowledge.httpswwwalamedacountysocialservicesorgindex_TLqhXAhcflHQGlTYo7cqg">
+  <componenttype>16</componenttype>
+  <description>This knowledge source searches information on the web found in https://www.alamedacountysocialservices.org/index website</description>
+  <iscustomizable>0</iscustomizable>
+  <name>https://www.alamedacountysocialservices.org/index</name>
+  <parentbotid>
+    <schemaname>crf86_copilot1</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

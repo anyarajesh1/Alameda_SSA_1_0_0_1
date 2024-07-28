@@ -1,0 +1,11 @@
+<botcomponent schemaname="crf86_copilot1.topic.Signin">
+  <componenttype>9</componenttype>
+  <description>This system topic triggers when the bot needs to sign in the user or require the user to sign in</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Sign in </name>
+  <parentbotid>
+    <schemaname>crf86_copilot1</schemaname>
+  </parentbotid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</botcomponent>
